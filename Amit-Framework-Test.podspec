@@ -2,7 +2,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "Amit-Framework-Test"
   spec.version      = "0.0.1"
-  spec.summary      = ""
+  spec.summary      = "lalalal"
 
   spec.description  = 'bla bla bla'
 
