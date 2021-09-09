@@ -16,6 +16,6 @@ Pod::Spec.new do |spec|
 
   spec.source       = { :git => "https://github.com/amit-kremer93/Amit-Framework-Test.git", :commit => "f8ab8a735dd0e2e8fbe7a63ea6a0dfd5cf8ace4e" }
 
-  spec.source_files  = "Amit-Framework-Test/**/*.{h,m}"
+  spec.source_files  = "Amit-Framework-Test/Amit-Framework-Test/*"
 
 end
